@@ -16,7 +16,6 @@ sin hacer.
 
 ## Tecnologías y Herramientas Utilizadas
 
-sin hacer
 ---
 
 ## Nota Final
