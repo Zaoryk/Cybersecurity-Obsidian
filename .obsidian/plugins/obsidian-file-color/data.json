@@ -1,0 +1,71 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "OTg0kTbtkn2RD0hASOgQE",
+      "name": "Red",
+      "value": "#ff7575"
+    },
+    {
+      "id": "gB1CbCDXid-z7TzJtJwiE",
+      "name": "Blue",
+      "value": "#9670ff"
+    },
+    {
+      "id": "mlC1SAOy5KXdan1JRLPqd",
+      "name": "Light Blue",
+      "value": "#8fe3ff"
+    },
+    {
+      "id": "yiX131sVPVITVfBnkRvJc",
+      "name": "Aqua",
+      "value": "#75ffe3"
+    },
+    {
+      "id": "0zYy9zMXbAKUCz_brc9Ae",
+      "name": "Green",
+      "value": "#99ffa0"
+    },
+    {
+      "id": "-yhp71hgDE1EVQIdAkUPc",
+      "name": "Yellow",
+      "value": "#e2ff94"
+    },
+    {
+      "id": "frZxfFXyTXIKKTzuf8yRB",
+      "name": "Orange",
+      "value": "#ffcf4d"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "5to Semestre/Redes de Datos",
+      "color": "OTg0kTbtkn2RD0hASOgQE"
+    },
+    {
+      "path": "5to Semestre/Innovacion y Emprendimiento II",
+      "color": "gB1CbCDXid-z7TzJtJwiE"
+    },
+    {
+      "path": "5to Semestre/Gestion de Personas",
+      "color": "mlC1SAOy5KXdan1JRLPqd"
+    },
+    {
+      "path": "5to Semestre/Gestion de CiberSeguridad",
+      "color": "yiX131sVPVITVfBnkRvJc"
+    },
+    {
+      "path": "5to Semestre/Calculo Diferencial",
+      "color": "0zYy9zMXbAKUCz_brc9Ae"
+    },
+    {
+      "path": "5to Semestre/Arquitectura On-Premise y On-Cloud",
+      "color": "-yhp71hgDE1EVQIdAkUPc"
+    },
+    {
+      "path": "README.md",
+      "color": "frZxfFXyTXIKKTzuf8yRB"
+    }
+  ]
+}

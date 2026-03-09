@@ -1,3 +1,13 @@
 [
-  "github-sync"
+  "github-sync",
+  "pdf-plus",
+  "obsidian-outliner",
+  "nl-syntax-highlighting",
+  "obsidian-kanban",
+  "dataview",
+  "code-styler",
+  "calendar",
+  "obsidian-better-command-palette",
+  "obsidian-advanced-slides",
+  "obsidian-file-color"
 ]
