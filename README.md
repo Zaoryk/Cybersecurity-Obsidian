@@ -7,7 +7,6 @@ Este repositorio contiene mis apuntes académicos de la especialidad de **Cibers
 El objetivo principal de este repositorio es servir como un **respaldo estructurado**, una herramienta de **estudio y repaso**, y un registro ordenado del conocimiento adquirido a lo largo del proceso formativo en el área de la seguridad informática.
 
 ---
-
 ## Estructura del Repositorio
 
 sin hacer.

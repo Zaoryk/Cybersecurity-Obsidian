@@ -1,5 +1,5 @@
 # Gestión de Ciberseguridad
-
+Profesor: Mag. René Guerrero
 ## Fechas de Pruebas
 - **30.03** — 15% — 1era Prueba Sumativa (Selección Múltiple)
 - **27.04** — 30% — 2nda Prueba Sumativa (Informe taller)
