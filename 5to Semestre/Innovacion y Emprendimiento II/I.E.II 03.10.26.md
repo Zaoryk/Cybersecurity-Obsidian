@@ -12,7 +12,7 @@ Profesora: Yolanda Garrido Melian
   - resolución de problemas
   - desarrollo de soluciones para usuarios o clientes.
 
-## Modelo educativo INACAP
+## Modelo educativo
 - Formación de profesionales con:
   - ética y ciudadanía
   - aprendizaje continuo
@@ -32,7 +32,7 @@ Profesora: Yolanda Garrido Melian
 - Permiten resolver problemas en contextos reales. :contentReference[oaicite:1]{index=1}
 
 
-# Ciclo de Innovación INACAP
+# Ciclo de Innovación
 
 ## Fases principales
 1. Diagnóstico
