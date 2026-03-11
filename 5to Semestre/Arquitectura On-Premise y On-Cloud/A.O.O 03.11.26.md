@@ -22,20 +22,18 @@ Profesor: Helton Smith Bustos Sáez
 ### 1. On-Premise (Tradicional)
 
 - **Definición**: Los recursos informáticos se encuentran físicamente en las instalaciones de la organización.
-    
+ 
 - **Control**: La empresa es responsable de todo el "stack" tecnológico, desde el hardware hasta las aplicaciones.
-    
+
 - **Infraestructura**: Incluye servidores, almacenamiento, redes de datos y conmutación local.
-    
 
 ### 2. On-Cloud (Nube)
 
 - **Definición**: Entrega de servicios informáticos (servidores, bases de datos, redes) a través de Internet.
-    
+
 - **Beneficio**: Permite transformar costos de capital (CAPEX) en costos operativos (OPEX).
-    
+
 - **Proveedores**: Se trabajará principalmente con **AWS** para los prototipos funcionales.
-    
 
 ### 3. Arquitectura Híbrida
 
