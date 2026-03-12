@@ -67,8 +67,6 @@ Notas relacionadas:
 - `E = log(2)10 ≈ 3,5`
 - `SAS`
 
-*(Notas matemáticas posiblemente relacionadas con cálculo de entropía)*
-
 ---
 
 ## Seguridad de Contraseñas
