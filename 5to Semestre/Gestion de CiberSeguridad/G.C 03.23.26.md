@@ -1,5 +1,7 @@
 # REDES, CLOUD, CIBERSEGURIDAD, GESTIÓN Y TALENTO
 
+![[Pasted image 20260323090853.png]]
+
 ## 1. Redes de Datos (Base de Todo)
 
 ### Concepto
