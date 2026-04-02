@@ -169,3 +169,4 @@
 | No hay conexión | no shutdown |
 | No responde ping | gateway |
 | VLAN incorrecta | revisar asignación |
+2
